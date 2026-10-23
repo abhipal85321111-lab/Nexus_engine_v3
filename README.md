@@ -16,3 +16,9 @@ Built with Python `deque` for High Performance Game Engine.
 - **No GIL Lock** - Pure Python Speed
 
 ### 📊 Proof
+
+🔴 LIVE PROOF: https://nexus-engine-v3.onrender.com
+Status: {"engine":"NexusV3.1_PRO","status":"Live ✅"}
+
+
+
